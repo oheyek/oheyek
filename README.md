@@ -9,10 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oheyek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/maciej-stebnicki/)
-- [Linktree](https://linktr.ee/ohey)
 - [Buy Me a Coffee](https://buymeacoffee.com/ohey)
 
 ---
